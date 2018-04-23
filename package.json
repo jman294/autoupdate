@@ -25,7 +25,10 @@
     "glob": "^7",
     "is-there": "^4.4.3",
     "lodash": "^4.17.4",
+    "minimatch": "^3.0.4",
     "nodegit": "^0.20",
+    "request": "^2.85.0",
+    "request-promise": "^4.2.2",
     "semver-stable": "^2.0.4"
   },
   "engines": {
